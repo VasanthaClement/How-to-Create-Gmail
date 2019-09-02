@@ -1,8 +1,8 @@
 
-<!DOCTYPE html>
+
 <html>
 	<head>
-		<title>Google Account</title>
+		<title> Google Account </title>
 	</head>
 	<body>
 		<h1 style="font-family:Segoe UI"> Introduction</h1>
@@ -49,5 +49,4 @@
 			<ul style="font-family:verdana;">
 				<li><a href="forgot-password.html">Forgot User Name or Passward</a></li>
 				<li><a href="2-step.html">2-Step Verification</a></li>
-	</body>
-</html>
+	
